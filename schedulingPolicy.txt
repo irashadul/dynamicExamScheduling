@@ -3,15 +3,18 @@ POLICY
 [1] Exam will be held 15 days
 [2] Exam will be held 2 shifts
 [3] Faculty allocation:
-        > Instructor :              15 days and all days but at most one shift 
-        > Lecturer:                 10 days and at lease one shift
-        > Assistant Prof:         7 days and at lease one shift
-        > Associate Prof:        5 days and at lease two shift        
-        > Prof:                        3 days and at lease one shift        
-        > Invigilator               [a] Designations must be Prof and at most one shift [OR]
-                                           [b] Total Top employee = Exam duration x Exam Shift x Higher Performance Score x Oldest Employee and at most one shift
-        > Reserve:                  All employee except the Prof AND Invigilator  and at most =Total Number of Rooms %(mod) 2 
-                                            Employee AND must not exceed total duty than the above designation instruction
+
+| Employee type        | Policy |
+|:----                          |          ---: |
+| Instructor :              |  15 days and all days but at most one shift |
+| Lecturer:                 |             10 days and at lease one shift|
+| Assistant Prof:        |         7 days and at lease one shift|
+| Associate Prof:       |        5 days and at lease two shift  |      
+| Prof:                       |       3 days and at lease one shift    |    
+| Invigilator              |      [a] Designations must be Prof and at most one shift [OR]|
+|                                |           [b] Total Top employee = Exam duration x Exam Shift x Higher Performance Score x Oldest Employee and at most one shift |
+| Reserve:                 |     All employee except the Prof AND Invigilator  and at most =Total Number of Rooms %(mod) 2 
+                                            Employee AND must not exceed total duty than the above designation instruction|
 [4] Room allocation:          [a] SHIFT N: Starting from the 1ST AND 3RD year courses and highest number of students in the class 
                                             AND allocate near their regular class premises        
                                            [B] SHIFT N+1: Starting from the 2ND AND 4TH year courses and highest number of students in the class AND allocate near their regular class premises
