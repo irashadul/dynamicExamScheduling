@@ -21,7 +21,7 @@ Using Python3
 
 ## POLICY
 
-[Policy.txt][1]
+- [Policy.txt][1]
 
 [1]: https://github.com/irashadul/dynamicExamScheduling/blob/master/schedulingPolicy.txt "Policy.txt"
 
