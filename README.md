@@ -21,7 +21,9 @@ Using Python3
 
 ## POLICY
 
-> https://github.com/irashadul/dynamicExamScheduling/blob/master/schedulingPolicy.txt "Policy.txt"
+[Policy.txt][1]
+
+[1] https://github.com/irashadul/dynamicExamScheduling/blob/master/schedulingPolicy.txt "Policy.txt"
 
 # LICENSE
 
