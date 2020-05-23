@@ -1,13 +1,9 @@
 #  ```Dynamic Exam Scheduling```
 
 ## PROGRAMMING LANGUAGE
-### [Model 1] 
 
-Using MySql 
-
-### [Model 2] 
-
-Using Python3
+- **Model 1**: Using MySql 
+- **Model 2**: Using Python3
 
 # NECESSITY
 
