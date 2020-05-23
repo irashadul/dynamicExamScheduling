@@ -14,7 +14,7 @@ POLICY
                                     [b] Employee AND must not exceed total duty than the above designation instruction
 [4] Room allocation:                [a] SHIFT N: Starting from the 1ST AND 3RD year courses and highest number of students in the class AND allocate near their regular class premises        
                                     [b] SHIFT N+1: Starting from the 2ND AND 4TH year courses and highest number of students in the class AND allocate near their regular class premises
-                                    > WHERE ROOM ALLOCATION = (ROOM CAPACITY <= NO OF STUDENT IN THE COURSE) 
+                                    >> WHERE ROOM ALLOCATION = (ROOM CAPACITY <= NO OF STUDENT IN THE COURSE) 
 [5] Student Sitting:                [a] Either Vertically OR Horizontally OR Diagonally based on the Room Capacity
                                     b] Order = Shuffle OR Ascending Or Decending or Based on GPA/CGPA or Based on attendances 
 [6] Status:                         [a] Exam status
