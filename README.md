@@ -23,7 +23,7 @@ Using Python3
 
 [Policy.txt][1]
 
-[1] https://github.com/irashadul/dynamicExamScheduling/blob/master/schedulingPolicy.txt "Policy.txt"
+[1]: https://github.com/irashadul/dynamicExamScheduling/blob/master/schedulingPolicy.txt "Policy.txt"
 
 # LICENSE
 
