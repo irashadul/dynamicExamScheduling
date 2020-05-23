@@ -9,13 +9,19 @@ Using MySql
 
 Using Python3
 
-## DATA REQUIRED
+# NECESSITY
+
+## DATA
 
 * Faculty And Employee Information
 * Student Information
 * Course Information
 * Room Capacity and Campus Information
 * Policy
+
+## POLICY
+
+> https://github.com/irashadul/dynamicExamScheduling/blob/master/schedulingPolicy.txt "Policy.txt"
 
 # LICENSE
 
