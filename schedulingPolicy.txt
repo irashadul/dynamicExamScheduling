@@ -10,23 +10,21 @@ POLICY
         > Associate Prof:            5 days and at lease two shift        
         > Prof:                      3 days and at lease one shift        
         > Invigilator               [a] Designations must be Prof and at most one shift [OR]
-                                           [b] Total Top employee = Exam duration x Exam Shift x Higher Performance Score x Oldest Employee and at most one shift
-        > Reserve:                  All employee except the Prof AND Invigilator  and at most =Total Number of Rooms %(mod) 2 
-                                            Employee AND must not exceed total duty than the above designation instruction
-[5] Room allocation:          [a] Each ROOM must divided into ROWS as sitting
-                                           [b] SHIFT N: Starting from the 1ST AND 3RD year courses and highest number of students in the class 
-                                            AND allocate near their regular class premises        
-                                           [c] SHIFT N+1: Starting from the 2ND AND 4TH year courses and highest number of students in the class AND allocate near their regular class premises
-                                           > WHERE ROOM ALLOCATION = (ROOM CAPACITY <= NO OF STUDENT IN THE COURSE) 
-[6] Student Sitting:            [a] Either Vertically OR Horizontally OR Diagonally based on the Room Capacity
-                                           [b] Order = Shuffle OR Ascending Or Decending or Based on GPA/CGPA or Based on attendances 
+                                    [b] Total Top employee = Exam duration x Exam Shift x Higher Performance Score x Oldest Employee and at most one shift
+        > Reserve:                  All employee except the Prof AND Invigilator  and at most =Total Number of Rooms %(mod) 2 AND Employee must not exceed total duty than the above designation instruction
+[5] Room allocation:                [a] Each ROOM must divided into ROWS as sitting
+                                    [b] SHIFT N: Starting from the 1ST AND 3RD year courses and highest number of students in the class AND allocate near their regular class premises        
+                                    [c] SHIFT N+1: Starting from the 2ND AND 4TH year courses and highest number of students in the class AND allocate near their regular class premises
+                                    > WHERE ROOM ALLOCATION = (ROOM CAPACITY <= NO OF STUDENT IN THE COURSE) 
+[6] Student Sitting:                [a] Either Vertically OR Horizontally OR Diagonally based on the Room Capacity
+                                    [b] Order = Shuffle OR Ascending Or Decending or Based on GPA/CGPA or Based on attendances 
 [7] Status:                          [a] Exam status
-                                           [b] Faculty and Invigilator status
-                                           [c] Engaged room status
-                                           [d] Presence and absence status
-                                           [e] Room allocation status
-                                           [f] Student sitting pool status
-                                           [g] Complain status
-                                           [i] Financial status of tuition fees
-                                           [j] Return of exam paper status by Exam Office
-                                           [k] Question paper status and on that course taker presence status on that exam day and shift
+                                     [b] Faculty and Invigilator status
+                                     [c] Engaged room status
+                                     [d] Presence and absence status
+                                     [e] Room allocation status
+                                     [f] Student sitting pool status
+                                     [g] Complain status
+                                     [i] Financial status of tuition fees
+                                     [j] Return of exam paper status by Exam Office
+                                     [k] Question paper status and on that course taker presence status on that exam day and shift
